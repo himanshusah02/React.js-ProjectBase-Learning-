@@ -24,8 +24,7 @@ This repository serves as a collection of small to medium-sized React.js project
 
 **Getting Started:**
 
-1. **Clone the repository:**
-   ```bash  https://github.com/himanshusah02/React.js-ProjectBase-Learning-.git'''
-
-  run project - npm run dev
+ **Clone the repository:**
+   ```bash
+   git clone [https://github.com/himanshusah02/React.js-ProjectBase-Learning-.git]
   

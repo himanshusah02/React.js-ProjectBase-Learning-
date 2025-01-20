@@ -1,0 +1,11 @@
+
+input{
+  width: 100%;
+}
+
+.hs-button{
+  min-width: 90px
+}
+.hs-row{
+  margin: 11px 5px;
+}
